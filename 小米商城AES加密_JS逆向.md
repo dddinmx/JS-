@@ -17,7 +17,7 @@
 ![image](https://github.com/user-attachments/assets/85fd1f97-f88f-4f98-94a7-bfbe7d659061)  
 ![image](https://github.com/user-attachments/assets/143a8cea-e969-4103-9ef9-b0bdf9dacd0d)  
 
- 16 位可能为 md5 加密，验证：  
+ 32 位可能为 md5 加密，验证：  
 ![image](https://github.com/user-attachments/assets/b4a8d47b-1f79-49a8-b88a-d639365a3e01)  
 
 
