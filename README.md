@@ -1,4 +1,4 @@
-# JS逆向  
+# JS reverse  
 ```
    jjjjj    sssss  
      j     s  
