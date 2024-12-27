@@ -32,4 +32,5 @@
 可知偏移量为 s 固定值：0102030405060708  
 密钥为 e：L^F17qQES7hUQzA8  
 ## 验证：  
-![image](https://github.com/user-attachments/assets/4f916c0f-2297-4b96-b179-4daef3d81f55)
+![image](https://github.com/user-attachments/assets/9b791880-8a64-45ef-bd66-799b931c32b1)
+
